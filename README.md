@@ -14,4 +14,5 @@ Users are now able to search for sightings in specific areas on certain dates. T
 
 ## Results
 
-The Webpage works as Dana intends it to, if she wanted to take it a step further we could create a filter for the comments. That way users can find connections 
+The Webpage works as Dana intends it to, if she wanted to take it a step further we could create a filter for the comments. In doing so users can find connections that way instead of having to do a seperate search after they find commonality. 
+
