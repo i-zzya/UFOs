@@ -10,3 +10,8 @@ Dana has asked for our help with her webpage and dynamic table. She would like t
 
 
 Users are now able to search for sightings in specific areas on certain dates. The webpage also provides comments about each sighting. Thats helpful because you can compare notes and find similar experiences amongst different sightings. 
+
+
+## Results
+
+The Webpage works as Dana intends it to, if she wanted to take it a step further we could create a filter for the comments. That way users can find connections 
