@@ -6,7 +6,7 @@ Dana has asked for our help with her webpage and dynamic table. She would like t
 
 ## Results 
 
-![ufo](https://user-images.githubusercontent.com/99618784/168442808-4b7b28f9-26a0-43f9-b9be-706b8c35ba47.PNG)
+![ufo](https://user-images.githubusercontent.com/99618784/168601875-2f167238-9011-4ae9-af10-b86754d46cee.PNG)
 
 
 Users are now able to search for sightings in specific areas on certain dates. The webpage also provides comments about each sighting. Thats helpful because you can compare notes and find similar experiences amongst different sightings. 
